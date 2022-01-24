@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>mongo</name>
+    </assembly>
+    <members>
+        <member name="M:mongo.Repos.ExpenseRepository.Add(mongo.Models.AppModels.Expense)">
+            <summary>Adds the specified item.</summary>
+            <param name="item">The item.</param>
+            <returns>
+              <br />
+            </returns>
+        </member>
+        <member name="M:mongo.Repos.ExpenseRepository.Delete(System.Guid)">
+            <summary>
+            Deletes the specified identifier.
+            </summary>
+            <param name="id">The identifier.</param>
+            <returns></returns>
+        </member>
+        <member name="M:mongo.Repos.ExpenseRepository.Edit(mongo.Models.AppModels.Expense)">
+            <summary>
+            Edits the specified item.
+            </summary>
+            <param name="item">The item.</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,11 @@
+D:\semestr_5_adam\dupa\program\GroupTourManagementSystem\GTMS\bin\Debug\GTMS.exe.config
+D:\semestr_5_adam\dupa\program\GroupTourManagementSystem\GTMS\bin\Debug\GTMS.exe
+D:\semestr_5_adam\dupa\program\GroupTourManagementSystem\GTMS\bin\Debug\GTMS.pdb
+D:\semestr_5_adam\dupa\program\GroupTourManagementSystem\GTMS\obj\Debug\GTMS.csproj.AssemblyReference.cache
+D:\semestr_5_adam\dupa\program\GroupTourManagementSystem\GTMS\obj\Debug\GTMS.Form1.resources
+D:\semestr_5_adam\dupa\program\GroupTourManagementSystem\GTMS\obj\Debug\GTMS.Properties.Resources.resources
+D:\semestr_5_adam\dupa\program\GroupTourManagementSystem\GTMS\obj\Debug\GTMS.Views.GroupsList.resources
+D:\semestr_5_adam\dupa\program\GroupTourManagementSystem\GTMS\obj\Debug\GTMS.csproj.GenerateResource.cache
+D:\semestr_5_adam\dupa\program\GroupTourManagementSystem\GTMS\obj\Debug\GTMS.csproj.CoreCompileInputs.cache
+D:\semestr_5_adam\dupa\program\GroupTourManagementSystem\GTMS\obj\Debug\GTMS.exe
+D:\semestr_5_adam\dupa\program\GroupTourManagementSystem\GTMS\obj\Debug\GTMS.pdb
