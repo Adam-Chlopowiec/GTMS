@@ -1,4 +1,17 @@
-﻿using System.Reflection;
+﻿// ***********************************************************************
+// Assembly         : GTMS
+// Author           : Adam
+// Created          : 01-24-2022
+//
+// Last Modified By : Adam
+// Last Modified On : 01-24-2022
+// ***********************************************************************
+// <copyright file="AssemblyInfo.cs" company="">
+//     Copyright ©  2022
+// </copyright>
+// <summary></summary>
+// ***********************************************************************
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 

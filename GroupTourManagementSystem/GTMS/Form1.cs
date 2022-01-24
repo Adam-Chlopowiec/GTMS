@@ -1,4 +1,17 @@
-﻿using GTMS.Models;
+﻿// ***********************************************************************
+// Assembly         : GTMS
+// Author           : Adam
+// Created          : 01-24-2022
+//
+// Last Modified By : Adam
+// Last Modified On : 01-24-2022
+// ***********************************************************************
+// <copyright file="Form1.cs" company="">
+//     Copyright ©  2022
+// </copyright>
+// <summary></summary>
+// ***********************************************************************
+using GTMS.Models;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -12,6 +25,11 @@ using GTMS.Views;
 
 namespace GTMS
 {
+    /// <summary>
+    /// Class Form1.
+    /// Implements the <see cref="System.Windows.Forms.Form" />
+    /// </summary>
+    /// <seealso cref="System.Windows.Forms.Form" />
     public partial class Form1 : Form
     {
         private List<Group> Groups { get; set; } = new List<Group>();

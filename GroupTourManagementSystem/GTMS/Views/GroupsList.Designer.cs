@@ -1,6 +1,24 @@
-﻿
+﻿// ***********************************************************************
+// Assembly         : GTMS
+// Author           : Adam
+// Created          : 01-24-2022
+//
+// Last Modified By : Adam
+// Last Modified On : 01-24-2022
+// ***********************************************************************
+// <copyright file="GroupsList.Designer.cs" company="">
+//     Copyright ©  2022
+// </copyright>
+// <summary></summary>
+// ***********************************************************************
+
 namespace GTMS.Views
 {
+    /// <summary>
+    /// Class GroupsList.
+    /// Implements the <see cref="System.Windows.Forms.Form" />
+    /// </summary>
+    /// <seealso cref="System.Windows.Forms.Form" />
     partial class GroupsList
     {
         /// <summary>

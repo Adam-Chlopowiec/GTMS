@@ -1,4 +1,17 @@
-﻿using GTMS.Models;
+﻿// ***********************************************************************
+// Assembly         : GTMS
+// Author           : Adam
+// Created          : 01-24-2022
+//
+// Last Modified By : Adam
+// Last Modified On : 01-24-2022
+// ***********************************************************************
+// <copyright file="GroupDetails.cs" company="">
+//     Copyright ©  2022
+// </copyright>
+// <summary></summary>
+// ***********************************************************************
+using GTMS.Models;
 using System;
 using System.Collections.Generic;
 using System.Drawing;
@@ -9,6 +22,11 @@ using System.Windows.Forms;
 
 namespace GTMS.Views
 {
+    /// <summary>
+    /// Class GroupDetails.
+    /// Implements the <see cref="System.Windows.Forms.GroupBox" />
+    /// </summary>
+    /// <seealso cref="System.Windows.Forms.GroupBox" />
     public class GroupDetails : GroupBox
     {
         public List<Panel> GroupPanels { get; set; }
